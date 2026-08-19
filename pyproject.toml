@@ -14,7 +14,7 @@ dependencies = [
 
 [project.optional-dependencies]
 qiskit = [
-    "qiskit>=2.2,<2.4",
+    "qiskit>=2.2,<3",
 ]
 dev = [
     "pytest>=8",
