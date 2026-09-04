@@ -1,6 +1,6 @@
 # Constraint-Aware QAOA: Penalties vs Constraint-Preserving Mixers
 
-[![ci](https://github.com/MiladGhadimi/constrained-qaoa-comparison/actions/workflows/ci.yml/badge.svg)](https://github.com/MiladGhadimi/constrained-qaoa-comparison/actions/workflows/ci.yml)
+
 
 A small, self-contained project that solves the **same constrained binary optimization problem** in two different ways:
 
